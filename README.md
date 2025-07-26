@@ -25,7 +25,7 @@ This is a simple **rule-based chatbot** created in Python using `if-else` condit
 - bye
 
 ### 🖼 Sample Output
-![Sample Chat](chat_output.png)
+![Sample Chat](sample_output.png.png)
 
 
 ---

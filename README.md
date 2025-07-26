@@ -24,6 +24,10 @@ This is a simple **rule-based chatbot** created in Python using `if-else` condit
 - your name  
 - bye
 
+### 🖼 Sample Output
+![Sample Chat](chat_output.png)
+
+
 ---
 
 > Internship Task 8 - Python Developer Track  
